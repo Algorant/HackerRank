@@ -1,6 +1,6 @@
 # Given an integer, print the first 10 multiples
 # each in the form n x i, where each result is
-# printed on a new line in form if n x i = result
+# printed on a new line in form of n x i = result
 
 
 number = int(input())
