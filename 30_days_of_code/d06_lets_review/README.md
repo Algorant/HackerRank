@@ -1,7 +1,7 @@
-This challenge takes a string input and asks it to be split between even and odd characters, on the same line separated by a space
+This challenge gives a basic overview of data types (strings, integers, floats)
 
-[Link to Challenge](https://www.hackerrank.com/challenges/30-review-loop/problem)
+[Link to Challenge](https://www.hackerrank.com/challenges/30-data-types/problem)
 
-[Link to PDF](./30-review-loop-English.pdf))
+[Link to PDF](./30-data-types-English.pdf)
 
-[My Solution](./review.py)
+[My Solution](./data_types.py)
