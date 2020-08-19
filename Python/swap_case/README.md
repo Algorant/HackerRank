@@ -1,7 +1,7 @@
 For given string, return opposite case for each letter. sWaP = SwAp
 
-Link to [Challenge](https://www.hackerrank.com/challenges/swap-case/problem)
+Link to [Challenge](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 
-Link to [PDF](./swap-case-English.pdf)
+Link to [PDF](./python-string-split-and-join-English.pdf)
 
-Link to [Solution](./swap.py)
+Link to [Solution](./string_split.py)
