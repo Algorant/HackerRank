@@ -1,4 +1,4 @@
-# This challenge asks to divide to given inputs
+This challenge asks to divide to given inputs
 
 Link to [Challenge](https://www.hackerrank.com/challenges/python-division/problem)
 
