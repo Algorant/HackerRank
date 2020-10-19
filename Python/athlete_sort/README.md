@@ -1,4 +1,4 @@
-Given N atheletes with M attributes and integer K, sort the data by the Kth attribute.
+Given N athletes with M attributes and integer K, sort the data by the Kth attribute.
 
 Link to [Challenge](https://www.hackerrank.com/challenges/python-sort-sort/problem)
 
