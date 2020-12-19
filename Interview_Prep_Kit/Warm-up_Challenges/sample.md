@@ -5,4 +5,4 @@ Instructions
 
 [Link to PDF](./pdfname.pdf)
 
-[Link to Solution](./script.sh)
+[Link to Solution](./name.py)
